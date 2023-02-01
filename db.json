@@ -1,0 +1,1741 @@
+{
+  "X": [
+
+  ],
+  "Y": [
+    {
+      "SortID": "1",
+      "A": "2972",
+      "B": "MBC 1",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/mbc1.png",
+      "daily": "https://epg.cdnrdn.com/MBC1.ae-{Ymd}.xml",
+      "weekly": "https://epg.cdnrdn.com/MBC1.ae.xml",
+      "G": {
+        "live": [
+          {
+            "stream_title": "FHD",
+            "content_stream": "https://011011.one/live/aloka556/bein556/66.ts",
+            "H": "mainplayer",
+            "I": "false",
+            "J": "direct",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ",
+            "O": "24.04.2017 20:03:40",
+            "P": 0
+          },
+          {
+            "stream_title": "FHD",
+            "content_stream": "http://iptv.ndasat.xyz:88/live/558605367626937/558605367626937/526.m3u",
+            "H": "mainplayer",
+            "I": "false",
+            "J": "direct",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "ndasat",
+            "O": "24.04.2017 20:03:40",
+            "P": 0
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "1858",
+      "B": "MBC 2",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/mbc2.png",
+      "daily": "https://epg.cdnrdn.com/MBC2.ae-{Ymd}.xml",
+      "weekly": "https://epg.cdnrdn.com/MBC2.ae.xml",
+      "G": {
+        "live": [
+          {
+            "stream_title": "FHD",
+            "content_stream": "https://011011.one/live/aloka556/bein556/66.ts",
+            "H": "mainplayer",
+            "I": "false",
+            "J": "direct",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "{\"User-Agent\":\"ㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤㅤ\"}",
+            "N": "",
+            "O": "24.04.2017 20:03:40",
+            "P": 0
+          },
+          
+          {
+            "stream_title": "FHD Main",
+            "content_stream": "https://webudi.webtv1.lol/lb/premium56/index.m3u8",
+            "H": "mainplayer",
+            "I": "false",
+            "J": "direct",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "{\"Referer\":\"https://streamservicehd.click/premiumtv/daddyhd.php?id=346/\",\"Accept-Language\":\"en-GB,en-US;q=0.9,en;q=0.8,ar;q=0.7,fr;q=0.6,fi;q=0.5\r\n\",\"Connection\":\"keep-alive\",\"Accept\":\"*/*\",\"Origin\":\"https://streamservicehd.click\",\"Accept-Encoding\":\"Accept-Encoding\"}",
+            "N": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/106.0.5249.126 Mobile Safari/537.36",
+            "O": "24.04.2017 20:03:40",
+            "P": 0
+          },
+          
+          {
+            "stream_title": "FHD2",
+            "content_stream": "https://webudi.webtv1.lol/lb/premium116/index.m3u8",
+            "H": "mainplayer",
+            "I": "false",
+            "J": "direct",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "{\"Referer\":\"https://streamservicehd.click/premiumtv/daddyhd.php?id=346/\",\"Accept-Language\":\"en-GB,en-US;q=0.9,en;q=0.8,ar;q=0.7,fr;q=0.6,fi;q=0.5\r\n\",\"Connection\":\"keep-alive\",\"Accept\":\"*/*\",\"Origin\":\"https://streamservicehd.click\",\"Accept-Encoding\":\"Accept-Encoding\"}",
+            "N": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/106.0.5249.126 Mobile Safari/537.36",
+            "O": "24.04.2017 20:03:40",
+            "P": 0
+          },
+          {
+            "stream_title": "FHD 3",
+            "content_stream": "https://webdi.openhd.lol:443/ddy1/premium56/tracks-v1a1/mono.m3u8?auth=MTk2LjY1LjE0MC4yMTA=",
+            "H": "mainplayer",
+            "I": "false",
+            "J": "direct",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "{\"Referer\":\"https://streamservicehd.click/premiumtv/\",\"Accept-Language\":\"en-GB,en-US;q=0.9,en;q=0.8,ar;q=0.7,fr;q=0.6,fi;q=0.5\r\n\",\"Connection\":\"keep-alive\",\"Accept\":\"*/*\",\"Origin\":\"https://streamservicehd.click\",\"Accept-Encoding\":\"Accept-Encoding\"}",
+            "N": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/106.0.5249.126 Mobile Safari/537.36",
+            "O": "24.04.2017 20:03:40",
+            "P": 0
+          },
+          {
+            "stream_title": "daddy",
+            "content_stream": "https://ad2017.webtv1.lol/lb/premium98/index.m3u8",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "direct",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "{\"Referer\":\"https://streamservicehd.click/premiumtv/daddyhd.php?id=11/\",\"Accept-Language\":\"en-GB,en-US;q=0.9,en;q=0.8,ar;q=0.7,fr;q=0.6,fi;q=0.5\r\n\",\"Connection\":\"keep-alive\",\"Accept\":\"*/*\",\"Origin\":\"https://streamservicehd.click\",\"Accept-Encoding\":\"Accept-Encoding\"}",
+            "N": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/106.0.5249.126 Mobile Safari/537.36",
+            "O": "24.04.2017 20:03:40",
+            "P": 0
+          },
+          {
+            "stream_title": "Quer",
+            "content_stream": "https://newtest.openhd.lol:443/ddy4/premium11/tracks-v1a1/mono.m3u8",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "direct",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "{\"Referer\":\"https://streamservicehd.click/premiumtv/daddyhd.php?id=11/\",\"Accept-Language\":\"en-GB,en-US;q=0.9,en;q=0.8,ar;q=0.7,fr;q=0.6,fi;q=0.5\r\n\",\"Connection\":\"keep-alive\",\"Accept\":\"*/*\",\"Origin\":\"https://streamservicehd.click\",\"Accept-Encoding\":\"Accept-Encoding\"}",
+            "N": "Mozilla/5.0 (Linux; Android 11; Redmi Note 8 Pro Build/RP1A.200720.011; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/106.0.5249.126 Mobile Safari/537.36",
+            "O": "24.04.2017 20:03:40",
+            "P": 0
+          }
+          
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "1859",
+      "B": "MBC 3",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/mbc3.png",
+      "daily": "",
+      "weekly": "",
+      "G": {
+        "live": [
+          {
+            "stream_title": "SD gg",
+            "content_stream": "https://hosting1.online:443/live/Halowapp/kyUJFWAZAh/124.ts",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "direct",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "{\"Icy-MetaData\":\"1\",\"Accept-Encoding\":\"identity\",\"Connection\":\"Keep-Alive\"}",
+            "N": "Hallow858/1.2.6 (Linux;Android 11) ExoPlayerLib/2.11.4",
+            "O": "24.04.2017 20:03:40",
+            "P": 0
+          },
+          {
+            "stream_title": "HD",
+            "content_stream": "http://11121314.org:8000/RP1A.200720.011:REDLINCLIENT V3:Redline/RP1A.200720.011:REDLINCLIENT V3:Redline/438680",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "direct",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "ExoPlayer",
+            "O": "24.04.2017 20:03:40",
+            "P": 0
+          },
+          {
+            "stream_title": "FHD",
+            "content_stream": "http://line.ottcst.com:80/0MYFNKZESM/ECBZ4AAJE1/138053",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "direct",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "YOOTIX /20.1.2 (Android 11)",
+            "P": 0,
+            "dvr": "https://watch.redroidiptv.com/dvr/20/NL/{time}/45582f4d42435f335f48442d6172/1"
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "1860",
+      "B": "MBC 4",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/mbc4.png",
+      "daily": "",
+      "weekly": "",
+      "G": {
+        "live": [
+          {
+            "stream_title": "SD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/544e2f6d6263342d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0
+          },
+          {
+            "stream_title": "HD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/45582f4d42435f345f48442d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0
+          },
+          {
+            "stream_title": "FHD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/45582f4d42435f345f4648442d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": "https://watch.redroidiptv.com/dvr/20/NL/{time}/45582f4d42435f345f48442d6172/1"
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "44561",
+      "B": "MBC 5",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo2/arabic/mbc5.png",
+      "daily": "https://epg.cdnrdn.com/MBC5.ae-{Ymd}.xml",
+      "weekly": "https://epg.cdnrdn.com/MBC5.ae.xml",
+      "G": {
+        "live": [
+          {
+            "stream_title": "SD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/544e2f6d6263352d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0
+          },
+          {
+            "stream_title": "FHD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/45582f4d42435f355f4648442d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": "https://watch.redroidiptv.com/dvr/20/NL/{time}/544e2f6d6263352d6172/1"
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "1862",
+      "B": "MBC Max",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/mbc.max.png",
+      "daily": "https://epg.cdnrdn.com/MBCMax.ae-{Ymd}.xml",
+      "weekly": "https://epg.cdnrdn.com/MBCMax.ae.xml",
+      "G": {
+        "live": [
+          {
+            "stream_title": "SD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/544e2f6d62636d61782d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0
+          },
+          {
+            "stream_title": "HD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/45582f4d42435f4d41585f48442d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0
+          },
+          {
+            "stream_title": "FHD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/45582f4d42435f4d41585f4648442d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": "https://watch.redroidiptv.com/dvr/20/NL/{time}/45582f4d42435f4d41585f48442d6172/1"
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "1861",
+      "B": "MBC Action",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/mbc_action.png",
+      "daily": "https://epg.cdnrdn.com/MBCAction.sa-{Ymd}.xml",
+      "weekly": "https://epg.cdnrdn.com/MBCAction.sa.xml",
+      "G": {
+        "live": [
+          {
+            "stream_title": "SD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/544e2f6d6263616374696f6e2d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0
+          },
+          {
+            "stream_title": "HD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/45582f4d42435f416374696f6e5f48442d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0
+          },
+          {
+            "stream_title": "FHD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/45582f4d42435f414354494f4e5f4648442d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": "https://watch.redroidiptv.com/dvr/20/NL/{time}/45582f4d42435f416374696f6e5f48442d6172/1"
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "1864",
+      "B": "MBC Drama",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/mbcdrama.png",
+      "daily": "https://epg.cdnrdn.com/MBCDrama.ae-{Ymd}.xml",
+      "weekly": "https://epg.cdnrdn.com/MBCDrama.ae.xml",
+      "G": {
+        "live": [
+          {
+            "stream_title": "SD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/544e2f6d62636472616d612d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0
+          },
+          {
+            "stream_title": "HD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/45582f4d42435f4472616d615f48442d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0
+          },
+          {
+            "stream_title": "FHD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/45582f4d42435f4452414d415f4648442d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": "https://watch.redroidiptv.com/dvr/20/NL/{time}/45582f4d42435f4472616d615f48442d6172/1"
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "235",
+      "B": "MBC Masr",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/maser.png",
+      "daily": "https://epg.cdnrdn.com/MbcMasr.eg-{Ymd}.xml",
+      "weekly": "https://epg.cdnrdn.com/MbcMasr.eg.xml",
+      "G": {
+        "live": [
+          {
+            "stream_title": "SD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/54522f6d62636d6173722d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0
+          },
+          {
+            "stream_title": "FHD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/45582f4d42435f4d4153525f4648442d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": "https://watch.redroidiptv.com/dvr/20/NL/{time}/54522f6d62636d6173722d6172/1"
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "816",
+      "B": "MBC Masr 2",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/maser2.png",
+      "daily": "https://epg.cdnrdn.com/MbcMasr2.eg-{Ymd}.xml",
+      "weekly": "https://epg.cdnrdn.com/MbcMasr2.eg.xml",
+      "G": {
+        "live": [
+          {
+            "stream_title": "SD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/544e2f6d62636d617372322d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0
+          },
+          {
+            "stream_title": "FHD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/45582f4d42435f4d4153525f322d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": "https://watch.redroidiptv.com/dvr/20/NL/{time}/544e2f6d62636d617372322d6172/1"
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "39559",
+      "B": "MBC Iraq",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/mbc-iraq.png",
+      "daily": "https://epg.cdnrdn.com/MBCIraq.iq-{Ymd}.xml",
+      "weekly": "https://epg.cdnrdn.com/MBCIraq.iq.xml",
+      "G": {
+        "live": [
+          {
+            "stream_title": "SD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/544e2f6d6263697261712d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0
+          },
+          {
+            "stream_title": "HD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/544e2f6d62636972617168642d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0
+          },
+          {
+            "stream_title": "FHD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/45582f4d42435f495241515f4648442d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": "https://watch.redroidiptv.com/dvr/20/NL/{time}/544e2f6d62636972617168642d6172/1"
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "1856",
+      "B": "MBC Bollywood",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/bolywood.png",
+      "daily": "https://epg.cdnrdn.com/MBCBollywood.sa-{Ymd}.xml",
+      "weekly": "https://epg.cdnrdn.com/MBCBollywood.sa.xml",
+      "G": {
+        "live": [
+          {
+            "stream_title": "SD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/544e2f6d6263626f6c6c79776f6f642d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0
+          },
+          {
+            "stream_title": "HD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/45582f4d42435f424f4c4c59574f4f445f48442d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0
+          },
+          {
+            "stream_title": "FHD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/45582f4d42435f424f4c4c59574f4f445f4648442d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": "https://watch.redroidiptv.com/dvr/20/NL/{time}/45582f4d42435f424f4c4c59574f4f445f48442d6172/1"
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "21870",
+      "B": "MBC+ Drama",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/mbc-drama-plus.png",
+      "daily": "https://epg.cdnrdn.com/MBCDrama.ae-{Ymd}.xml",
+      "weekly": "https://epg.cdnrdn.com/MBCDrama.ae.xml",
+      "G": {
+        "live": [
+          {
+            "stream_title": "HD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/45582f4d42435f4452414d415f506c75735f48442d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": "https://watch.redroidiptv.com/dvr/20/NL/{time}/45582f4d42435f4452414d415f506c75735f48442d6172/1"
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "11333",
+      "B": "MBC+ Variety",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/mbc-variety.png",
+      "daily": "https://epg.cdnrdn.com/MBCVariety.ae-{Ymd}.xml",
+      "weekly": "https://epg.cdnrdn.com/MBCVariety.ae.xml",
+      "G": {
+        "live": [
+          {
+            "stream_title": "HD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/45582f4d42435f566172696574795f48442d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": "https://watch.redroidiptv.com/dvr/20/NL/{time}/45582f4d42435f566172696574795f48442d6172/1"
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "4322",
+      "B": "GEM Arabia",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo2/arabic/gemarabia.png",
+      "daily": "",
+      "weekly": "",
+      "G": {
+        "live": [
+          {
+            "stream_title": "SD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/54522f67656d6172616269612d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": null
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "1907",
+      "B": "Alaan TV",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/alan.png",
+      "daily": "https://epg.cdnrdn.com/AlAan.ae-{Ymd}.xml",
+      "weekly": "https://epg.cdnrdn.com/AlAan.ae.xml",
+      "G": {
+        "live": [
+          {
+            "stream_title": "SD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/54522f616c61616e2d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": null
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "2666",
+      "B": "Abu Dhabi",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/Abu-Dhabi-Channel-logo-2015.png",
+      "daily": "https://epg.cdnrdn.com/AbuDhabi.ae-{Ymd}.xml",
+      "weekly": "https://epg.cdnrdn.com/AbuDhabi.ae.xml",
+      "G": {
+        "live": [
+          {
+            "stream_title": "FHD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/54522d4e2f4162755f44686162695f54565f48442d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0
+          },
+          {
+            "stream_title": "HD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/4e4c2f616275646861626968642d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": "https://watch.redroidiptv.com/dvr/20/NL/{time}/4e4c2f616275646861626968642d6172/1"
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "467",
+      "B": "Al Emarat",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/AD_Al_Emarat_Logo.png",
+      "daily": "",
+      "weekly": "",
+      "G": {
+        "live": [
+          {
+            "stream_title": "HD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/54522f616c656d6172617468642d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": "https://watch.redroidiptv.com/dvr/20/NL/{time}/54522f616c656d6172617468642d6172/1"
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "1912",
+      "B": "Dubai Al Oula",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/Dubai-Al-Oula.png",
+      "daily": "",
+      "weekly": "",
+      "G": {
+        "live": [
+          {
+            "stream_title": "SD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/54522f6475626169616c6f756c612d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0
+          },
+          {
+            "stream_title": "FHD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/4e4c2d4e2f44756261695f54565f48442d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": "https://watch.redroidiptv.com/dvr/20/NL/{time}/54522f6475626169616c6f756c612d6172/1"
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "1915",
+      "B": "Sama Dubai",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/sama.png",
+      "daily": "https://epg.cdnrdn.com/SamaDubai.ae-{Ymd}.xml",
+      "weekly": "https://epg.cdnrdn.com/SamaDubai.ae.xml",
+      "G": {
+        "live": [
+          {
+            "stream_title": "SD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/54522f73616d6164756261692d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": "https://watch.redroidiptv.com/dvr/20/NL/{time}/54522f73616d6164756261692d6172/1"
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "1914",
+      "B": "Dubai One",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/one.png",
+      "daily": "https://epg.cdnrdn.com/DubaiOneEn.ae-{Ymd}.xml",
+      "weekly": "https://epg.cdnrdn.com/DubaiOneEn.ae.xml",
+      "G": {
+        "live": [
+          {
+            "stream_title": "SD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/54522f64756261696f6e652d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": "https://watch.redroidiptv.com/dvr/20/NL/{time}/54522f64756261696f6e652d6172/1"
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "2249",
+      "B": "Al Sharjah",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/alsharqa.png",
+      "daily": "",
+      "weekly": "",
+      "G": {
+        "live": [
+          {
+            "stream_title": "SD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/544e2f616c736861726a61682d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0
+          },
+          {
+            "stream_title": "FHD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/54522d4e2f536861726a61685f48442d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": "https://watch.redroidiptv.com/dvr/20/NL/{time}/544e2f616c736861726a61682d6172/1"
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "8927",
+      "B": "Fujairah TV",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/fujairah.png",
+      "daily": "",
+      "weekly": "",
+      "G": {
+        "live": [
+          {
+            "stream_title": "HD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/544e2f66756a6169726168747668642d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0
+          },
+          {
+            "stream_title": "FHD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/54522d4e2f46756a61697261685f54565f48442d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": "https://watch.redroidiptv.com/dvr/20/NL/{time}/544e2f66756a6169726168747668642d6172/1"
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "921874",
+      "B": "Al Dafra",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/Dafrah.png",
+      "daily": "https://epg.cdnrdn.com/AlDafrahTV.ae-{Ymd}.xml",
+      "weekly": "https://epg.cdnrdn.com/AlDafrahTV.ae.xml",
+      "G": {
+        "live": [
+          {
+            "stream_title": "HD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/544e2f616c646166726168642d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0
+          },
+          {
+            "stream_title": "FHD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/54522d4e2f414c5f44414652415f48442d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": null
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "8923",
+      "B": "Ajman",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/ajman.png",
+      "daily": "",
+      "weekly": "",
+      "G": {
+        "live": [
+          {
+            "stream_title": "HD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/544e2f616a6d616e68642d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0
+          },
+          {
+            "stream_title": "FHD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/54522d4e2f414a4d414e5f48442d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": "https://watch.redroidiptv.com/dvr/20/NL/{time}/544e2f616a6d616e68642d6172/1"
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "9739",
+      "B": "Sharqiya Kalba",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/Sharqiya-From-Kalba.png",
+      "daily": "",
+      "weekly": "",
+      "G": {
+        "live": [
+          {
+            "stream_title": "SD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/544e2f73686172716979616b616c62612d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0
+          },
+          {
+            "stream_title": "FHD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/54522d4e2f53686172716979615f4b616c62615f48442d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": null
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "13538",
+      "B": "Al Wousta Al Dhaid",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/westa.png",
+      "daily": "",
+      "weekly": "",
+      "G": {
+        "live": [
+          {
+            "stream_title": "FHD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/54522d4e2f416c5f576f757374615f416c5f4468615f48442d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": null
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "11416",
+      "B": "beIN Fatafeat",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/fatafeat.png",
+      "daily": "https://epg.cdnrdn.com/FatafeatAr.qa-{Ymd}.xml",
+      "weekly": "https://epg.cdnrdn.com/FatafeatAr.qa.xml",
+      "G": {
+        "live": [
+          {
+            "stream_title": "SD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/45582f4265696e46617461466561742d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": "https://watch.redroidiptv.com/dvr/20/NL/{time}/45582f4265696e46617461466561742d6172/1"
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "21689",
+      "B": "RBC TV",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/rbc-tv-ae.png",
+      "daily": "",
+      "weekly": "",
+      "G": {
+        "live": [
+          {
+            "stream_title": "FHD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/54522d4e2f5242435f54565f48442d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": null
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "1918",
+      "B": "Noor Dubai",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/NoorDubai.png",
+      "daily": "https://epg.cdnrdn.com/NoorDubai.ae-{Ymd}.xml",
+      "weekly": "https://epg.cdnrdn.com/NoorDubai.ae.xml",
+      "G": {
+        "live": [
+          {
+            "stream_title": "SD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/54522f6e6f6f7264756261692d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": "https://watch.redroidiptv.com/dvr/20/NL/{time}/54522f6e6f6f7264756261692d6172/1"
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "468",
+      "B": "AD National Geographic",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "11",
+      "F": "http://files.cdnrdn.com/chlogo/natgeoad.png",
+      "daily": "https://epg.cdnrdn.com/NationalGeographicAbuDhabi.ae-{Ymd}.xml",
+      "weekly": "https://epg.cdnrdn.com/NationalGeographicAbuDhabi.ae.xml",
+      "G": {
+        "live": [
+          {
+            "stream_title": "SD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/54522f61646e617467656f2d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": "https://watch.redroidiptv.com/dvr/20/NL/{time}/54522f61646e617467656f2d6172/1"
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "1878",
+      "B": "CNBC Arabiya",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/CNBCArabiya.png",
+      "daily": "https://epg.cdnrdn.com/CNBCArabiya.ae-{Ymd}.xml",
+      "weekly": "https://epg.cdnrdn.com/CNBCArabiya.ae.xml",
+      "G": {
+        "live": [
+          {
+            "stream_title": "SD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/54522f636e6263617261626979612d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": null
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "4202",
+      "B": "OSN Yahala Bil Arabi",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/Osn-Yahala.png",
+      "daily": "https://epg.cdnrdn.com/OSNYahala.ae-{Ymd}.xml",
+      "weekly": "https://epg.cdnrdn.com/OSNYahala.ae.xml",
+      "G": {
+        "live": [
+          {
+            "stream_title": "HD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/4f534e2d45582f4f534e5f594148414c412d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": "https://watch.redroidiptv.com/dvr/20/NL/{time}/4f534e2d45582f4f534e5f594148414c412d6172/1"
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "4204",
+      "B": "OSN Yahala",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/OSN-Yahala-Aloula.png",
+      "daily": "https://epg.cdnrdn.com/OSNYaHalaAlOula.ae-{Ymd}.xml",
+      "weekly": "https://epg.cdnrdn.com/OSNYaHalaAlOula.ae.xml",
+      "G": {
+        "live": [
+          {
+            "stream_title": "HD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/4f534e2d45582f4f534e5f594148414c415f312d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": "https://watch.redroidiptv.com/dvr/20/NL/{time}/4f534e2d45582f4f534e5f594148414c415f312d6172/1"
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "4206",
+      "B": "OSN Yahala Aflam",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/OsnYahalaCinema.png",
+      "daily": "https://epg.cdnrdn.com/OSNYahalaCinema.ae-{Ymd}.xml",
+      "weekly": "https://epg.cdnrdn.com/OSNYahalaCinema.ae.xml",
+      "G": {
+        "live": [
+          {
+            "stream_title": "HD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/4f534e2d45582f4f534e5f594148414c415f43494e454d412d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": "https://watch.redroidiptv.com/dvr/20/NL/{time}/4f534e2d45582f4f534e5f594148414c415f43494e454d412d6172/1"
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "11422",
+      "B": "OSN Alfa Cinema 1",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/osnCM1.png",
+      "daily": "https://epg.cdnrdn.com/OSNCinema.ae-{Ymd}.xml",
+      "weekly": "https://epg.cdnrdn.com/OSNCinema.ae.xml",
+      "G": {
+        "live": [
+          {
+            "stream_title": "SD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/4f534e2d45582f4f534e5f43494e454d415f312d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": "https://watch.redroidiptv.com/dvr/20/NL/{time}/4f534e2d45582f4f534e5f43494e454d415f312d6172/1"
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "21969",
+      "B": "OSN Alfa Cinema 2",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/Osn-Cinema2.png",
+      "daily": "",
+      "weekly": "",
+      "G": {
+        "live": [
+          {
+            "stream_title": "SD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/4f534e2d45582f4f534e5f43494e454d415f322d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": "https://watch.redroidiptv.com/dvr/20/NL/{time}/4f534e2d45582f4f534e5f43494e454d415f322d6172/1"
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "14279",
+      "B": "OSN Alfa Musalsalat",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo2/arabic/musalsalat.png",
+      "daily": "",
+      "weekly": "",
+      "G": {
+        "live": [
+          {
+            "stream_title": "HD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/4f534e2d45582f4f534e5f4d5553414c53414c41545f312d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": "https://watch.redroidiptv.com/dvr/20/NL/{time}/4f534e2d45582f4f534e5f4d5553414c53414c41545f312d6172/1"
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "925673",
+      "B": "OSN Al Safwa",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/al-safwa-ae.png",
+      "daily": "",
+      "weekly": "",
+      "G": {
+        "live": [
+          {
+            "stream_title": "HD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/4f534e2d45582f4f534e5f416c5f53616677612d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": null
+          }
+        ]
+      }
+    },
+    {
+      "SortID": "1",
+      "A": "11423",
+      "B": "Osn Al Yawm",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/osnYAW.png",
+      "daily": "",
+      "weekly": "",
+      "G": {
+        "live": [
+          {
+            "stream_title": "FHD",
+            "content_stream": "https://watch.redroidiptv.com/live/hls/20/NL/4f534e2d45582f4f534e5f414c5941574d2d6172/1",
+            "H": "defaultplayer",
+            "I": "false",
+            "J": "R-Auth",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "Rediptv Plus 2.0.11",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": "https://watch.redroidiptv.com/dvr/20/NL/{time}/4f534e2d45582f4f534e5f414c5941574d2d6172/1"
+          }
+        ]
+      }
+    },
+    
+    {
+      "SortID": "1",
+      "A": "9090",
+      "B": "OSN Movies Hhhh",
+      "CA": "2",
+      "C": "3",
+      "D": "Arabic TV",
+      "E": "Arabic TV",
+      "FA": "200",
+      "F": "http://files.cdnrdn.com/chlogo/OSN-Movie-FirstHD.png",
+      "daily": "https://epg.cdnrdn.com/OSNMoviesFirst.ae-{Ymd}.xml",
+      "weekly": "https://epg.cdnrdn.com/OSNMoviesFirst.ae.xml",
+      "G": {
+        "live": [
+          {
+            "stream_title": "HD",
+            "content_stream": "https://daddyhd.com/embed/stream-425.php",
+            "H": "webplayer",
+            "I": "false",
+            "J": "",
+            "K": "",
+            "L": "",
+            "M": "",
+            "R": "",
+            "N": "",
+            "O": "24.04.2017 20:03:40",
+            "P": 0,
+            "dvr": "https://watch.redroidiptv.com/dvr/20/NL/{time}/4f534e2d45582f4f534e5f4d4f564945535f46495253542d6172/1"
+          }
+        ]
+      }
+    }
+  ]
+}
